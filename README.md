@@ -1,2 +1,2 @@
 # spam_bot
-spam bot for instagram, telegram, whatsapp
+spam bot for Instagram, Telegram, Whatsapp, .....
