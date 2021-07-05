@@ -1,3 +1,18 @@
+
+###############          ##########        #######   #######        #########      #######       #
+#              #        #          #             #         #       #         #           #
+#               #       #          #            #         #        #         #          #        #
+#              #        #          #           #         #         #         #         #         #
+###############         ############          #         #          ###########        #          #
+#              #        #          #         #         #           #         #       #           #
+#               #       #          #        #         #            #         #      #            #
+#              #        #          #       #         #             #         #     #             #
+###############         #          #      #######    #######       #         #    #######        #
+
+# Developer: Mohammad Ali Bazzazi (me)
+# Sample spamming file in English
+
+
 Ooh, ooh
 Across the ocean, across the sea
 Startin' to forget the way you look at me now
