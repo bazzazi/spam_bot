@@ -1,3 +1,3 @@
 # spam_bot
 spam bot for Instagram, Telegram, Whatsapp, .....
-Power by Mohammad Ali Bazzazi
+Powered by Mohammad Ali Bazzazi
